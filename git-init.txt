@@ -1,3 +1,5 @@
 teste git-init
 
 TESTE 2
+
+teste 3 clone
